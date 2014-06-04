@@ -1,0 +1,30 @@
+<footer style="background-color:#404041; min-height:30px;" >
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8">
+        <div class="footer-left"> @2013. Hiltz & Wantuch LLC. All right reserved. We are a debt relief agency. we help people file for bankrutcy relief under the bankrutcy code. </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="footer-right"> Website design by Fresh Design Studios</div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="../wp-content/themes/HWZlaw/assets/js/jquery-1.11.1.js"></script> 
+<script src="../wp-content/themes/HWZlaw/assets/js/bootstrap.js"></script> 
+<script src="../wp-content/themes/HWZlaw/assets/js/cufon-yui.js"></script> 
+<script src="../wp-content/themes/HWZlaw/assets/js/Trajan_Pro_400-Trajan_Pro_700.font.js"></script> 
+<script src="../wp-content/themes/HWZlaw/assets/js/superfish.js"></script> 
+<script src="../wp-content/themes/HWZlaw/assets/js/hoverIntent.js"></script> 
+<script>
+	jQuery(document).ready(function(){
+	jQuery('ul.sf-menu').superfish();
+	});
+</script> 
+<script type="text/javascript">
+	Cufon.replace('#cufon-area-logotext, #cufon-area-personname, #cufon-area-rightmenu, #cufon-area-logo21');
+</script>
+</body>
+</html>
