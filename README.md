@@ -10,4 +10,4 @@ second-round-test
 6. testing design in responsive view.
 7. I'm new in wordpress themes, I try breaking the egg, slice index.php to header.php, index.php and footer.php.
 8. i have upload 2 project, slice to bootstrap and for wordpress themes.
-9. my wordpress themes just can show you first page. I'm new in wordpress themes, but I'm fast learner, I will try more hard ;)
+9. my wordpress themes just first page shown. I'm new in wordpress themes, but I'm fast learner. it's begining, tommorow will better ;)
