@@ -12,12 +12,12 @@
 </footer>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="../wp-content/themes/HWZlaw/assets/js/jquery-1.11.1.js"></script> 
-<script src="../wp-content/themes/HWZlaw/assets/js/bootstrap.js"></script> 
-<script src="../wp-content/themes/HWZlaw/assets/js/cufon-yui.js"></script> 
-<script src="../wp-content/themes/HWZlaw/assets/js/Trajan_Pro_400-Trajan_Pro_700.font.js"></script> 
-<script src="../wp-content/themes/HWZlaw/assets/js/superfish.js"></script> 
-<script src="../wp-content/themes/HWZlaw/assets/js/hoverIntent.js"></script> 
+<script src="<?php bloginfo('template_url');?>/assets/js/jquery-1.11.1.js"></script> 
+<script src="<?php bloginfo('template_url');?>/assets/js/bootstrap.js"></script> 
+<script src="<?php bloginfo('template_url');?>/assets/js/cufon-yui.js"></script> 
+<script src="<?php bloginfo('template_url');?>/assets/js/Trajan_Pro_400-Trajan_Pro_700.font.js"></script> 
+<script src="<?php bloginfo('template_url');?>/assets/js/superfish.js"></script> 
+<script src="<?php bloginfo('template_url');?>/assets/js/hoverIntent.js"></script> 
 <script>
 	jQuery(document).ready(function(){
 	jQuery('ul.sf-menu').superfish();
